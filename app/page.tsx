@@ -14,7 +14,7 @@ export default function MinimalisticCalendar() {
     <div className="min-h-screen bg-black text-white">
       <div className="absolute top-4 right-4 z-10">
         <a
-          href="https://github.com/yourusername/minimalistic-calendar"
+          href="https://github.com/Rohan-Gpt/tracker"
           target="_blank"
           rel="noopener noreferrer"
           className="text-white hover:text-gray-300 transition-colors duration-200"
