@@ -5,6 +5,8 @@ import {
 } from "@/utils/date-calculations";
 import type { MonthData, YearData } from "@/types/calendar";
 
+export const dynamic = "force-dynamic";
+
 export default function MinimalisticCalendar() {
   // Pre-calculate data on server for better performance
   const monthData: MonthData = getCurrentMonthData();
